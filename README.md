@@ -20,7 +20,7 @@ This project is a front-end development assignment that showcases my skills in H
 
 ## Live Link
 
-You can view the completed project live at the following link: [Live Project Link](YOUR_LIVE_LINK_HERE)
+You can view the completed project live at the following link: [Live Project Link](https://clipwise-assesment.vercel.app/)
 
 ## Conclusion
 
